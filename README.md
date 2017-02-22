@@ -14,3 +14,4 @@ An example showing how to get CTC cost function working with Tensorflow for ocr 
 This project is licensed under the terms of the MIT license.
 
 See README for more information.
+
